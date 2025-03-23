@@ -8,8 +8,7 @@
 ## Dependencies:
 - PyTelegramBotAPI
 - Python 3.12
-- File tokens.py looks like this:
- ` TOKEN = '<YOUR TOKEN>' `
+
 
 # RUS
 ## Что это?
@@ -21,5 +20,3 @@
 ## Зависимости:
 - PyTelegramBotAPI
 - Python 3.12
-- Файл tokens.py выглядит так:
- ` TOKEN = '<ВАШ ТОКЕН>' `
